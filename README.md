@@ -4,7 +4,7 @@ Student project for AI &amp; ML. Classifies electric engine sounds as good, brok
 
 # Engine Condition Classifier GUI
 
-**Author:** Daniel Norlan  
+**Author:** Daniel Norlan, Hans Josef Rosland-Borlaug 
 **Start date:** 19.09.2025  
 **Last edit:** 05.11.2025  
 
