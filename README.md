@@ -6,7 +6,7 @@ Student project for AI &amp; ML. Classifies electric engine sounds as good, brok
 
 **Author:** Daniel Norlan, Hans Josef Rosland-Borlaug 
 **Start date:** 19.09.2025  
-**Last edit:** 05.11.2025  
+**Last edit:** 13.11.2025  
 
 This repository contains the code for a desktop GUI that ties together several
 machine learning pipelines for classifying electric engine states and experimenting
